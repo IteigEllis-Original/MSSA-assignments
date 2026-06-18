@@ -1,11 +1,11 @@
-<Window x:Class="BooksInventoryCodeFirst.MainWindow"
+<Window x:Class="BookInventory.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:BooksInventoryCodeFirst"
+        xmlns:local="clr-namespace:BookInventory"
         mc:Ignorable="d"
-        Title="Books Inventory" Height="650" Width="1000"
+        Title="Book Inventory" Height="650" Width="1000"
         WindowStartupLocation="CenterScreen">
     <Grid Margin="16">
         <Grid.RowDefinitions>
@@ -15,7 +15,7 @@
             <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
 
-        <TextBlock Text="Books Inventory"
+        <TextBlock Text="Book Inventory"
                    FontSize="28"
                    FontWeight="SemiBold"
                    Margin="0,0,0,16" />
