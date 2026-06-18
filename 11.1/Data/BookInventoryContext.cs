@@ -1,7 +1,7 @@
-using BooksInventoryCodeFirst.Models;
+using BookInventory.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace BooksInventoryCodeFirst.Data
+namespace BookInventory.Data
 {
     public class BookInventoryContext : DbContext
     {
@@ -16,7 +16,7 @@ namespace BooksInventoryCodeFirst.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlite("Data Source=BooksInventory.db");
+                optionsBuilder.UseSqlite("Data Source=BookInventory.db");
             }
         }
     }
