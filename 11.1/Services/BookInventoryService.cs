@@ -1,8 +1,8 @@
-using BooksInventoryCodeFirst.Data;
-using BooksInventoryCodeFirst.Models;
+using BookInventory.Data;
+using BookInventory.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace BooksInventoryCodeFirst.Services
+namespace BookInventory.Services
 {
     public class BookInventoryService
     {
