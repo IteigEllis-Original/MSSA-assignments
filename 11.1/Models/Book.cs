@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace BooksInventoryCodeFirst.Models
+namespace BookInventory.Models
 {
     public class Book
     {
