@@ -1,9 +1,9 @@
-<Application x:Class="BooksInventoryCodeFirst.App"
+<Application x:Class="BookInventory.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:BooksInventoryCodeFirst"
+             xmlns:local="clr-namespace:BookInventory"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+
     </Application.Resources>
 </Application>
