@@ -1,4 +1,4 @@
-# Books Inventory Code First
+# Book Inventory
 
 This is a WPF book inventory application created from scratch for the code-first assignment.
 
@@ -16,4 +16,4 @@ This is a WPF book inventory application created from scratch for the code-first
 
 ## Run in Visual Studio
 
-Open `BooksInventoryCodeFirst.slnx` or `BooksInventoryCodeFirst.csproj` in Visual Studio, restore NuGet packages if prompted, and run the project.
+Open `Book Inventory.slnx` or `Book Inventory.csproj` in Visual Studio, restore NuGet packages if prompted, and run the project.
