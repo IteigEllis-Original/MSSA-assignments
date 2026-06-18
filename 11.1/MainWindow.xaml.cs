@@ -1,10 +1,10 @@
 using System.Windows;
 using System.Windows.Controls;
-using BooksInventoryCodeFirst.Data;
-using BooksInventoryCodeFirst.Models;
-using BooksInventoryCodeFirst.Services;
+using BookInventory.Data;
+using BookInventory.Models;
+using BookInventory.Services;
 
-namespace BooksInventoryCodeFirst
+namespace BookInventory
 {
     public partial class MainWindow : Window
     {
